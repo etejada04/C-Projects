@@ -1,0 +1,3 @@
+Minimum dimensions:
+Tiles:
+Dimensions: 216.0 x 360.0

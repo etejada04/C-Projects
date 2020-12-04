@@ -1,0 +1,12 @@
+Text:
+Searches:
+Found: 1, 6
+Found: 1, 4
+Found: 2, 3, 3
+Not found
+Found: 1
+Found: 1
+Found: 2
+Not found
+Invalid query
+Found: 1, 4
